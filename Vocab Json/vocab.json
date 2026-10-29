@@ -268,5 +268,1553 @@
     "synonyms": ["confirm", "validate", "check"],
     "level": "B2",
     "active": true
-  }
+  },
+  {
+      "word": "accomplish",
+      "thai": "ทำสำเร็จ, บรรลุผล",
+      "meaning": "to succeed in doing or completing something",
+      "exampleSentence": "The team worked hard to accomplish all project goals on time.",
+      "synonyms": ["achieve", "attain", "fulfill"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "accustomed",
+      "thai": "คุ้นเคย, เป็นประจำ",
+      "meaning": "familiar with something and accepting it as normal",
+      "exampleSentence": "Employees are accustomed to working under tight deadlines.",
+      "synonyms": ["used to", "familiar", "habituated"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "adjourn",
+      "thai": "เลื่อน (การประชุม), ยุติชั่วคราว",
+      "meaning": "to temporarily close or end a meeting or official process",
+      "exampleSentence": "The chairman decided to adjourn the meeting until tomorrow morning.",
+      "synonyms": ["postpone", "suspend", "recess"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "agenda",
+      "thai": "ระเบียบวาระการประชุม",
+      "meaning": "a list of items or topics to be discussed at a formal meeting",
+      "exampleSentence": "Please review the agenda before attending the department meeting.",
+      "synonyms": ["schedule", "program", "itinerary"],
+      "level": "B1",
+      "active": true
+    },
+    {
+      "word": "alternative",
+      "thai": "ทางเลือก, ตัวเลือก",
+      "meaning": "another choice or possibility that can be selected",
+      "exampleSentence": "We need to find an alternative supplier due to shipping delays.",
+      "synonyms": ["option", "substitute", "choice"],
+      "level": "B1",
+      "active": true
+    },
+    {
+      "word": "amend",
+      "thai": "แก้ไข, ปรับปรุง (เอกสาร/สัญญา)",
+      "meaning": "to make minor changes to a document, law, or agreement",
+      "exampleSentence": "The legal team will amend the contract before both parties sign.",
+      "synonyms": ["modify", "revise", "alter"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "announce",
+      "thai": "ประกาศ, แจ้งให้ทราบ",
+      "meaning": "to make a public or official statement about something",
+      "exampleSentence": "The CEO will announce the company's new policy this afternoon.",
+      "synonyms": ["declare", "proclaim", "broadcast"],
+      "level": "B1",
+      "active": true
+    },
+    {
+      "word": "anticipate",
+      "thai": "คาดการณ์, เฝ้ารอ",
+      "meaning": "to expect or foresee that something will happen",
+      "exampleSentence": "We anticipate a significant rise in demand during the holiday season.",
+      "synonyms": ["expect", "foresee", "predict"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "apologize",
+      "thai": "ขอโทษ",
+      "meaning": "to express regret for doing something wrong or causing inconvenience",
+      "exampleSentence": "We apologize for any inconvenience caused by the service outage.",
+      "synonyms": ["express regret", "say sorry", "ask forgiveness"],
+      "level": "B1",
+      "active": true
+    },
+    {
+      "word": "applicant",
+      "thai": "ผู้สมัคร",
+      "meaning": "a person who formally applies for a job, position, or permit",
+      "exampleSentence": "The hiring manager interviewed ten qualified applicants today.",
+      "synonyms": ["candidate", "job seeker", "contender"],
+      "level": "B1",
+      "active": true
+    },
+    {
+      "word": "appraise",
+      "thai": "ประเมินค่า, ประเมินผลงาน",
+      "meaning": "to assess the value, quality, or performance of something or someone",
+      "exampleSentence": "Managers appraise employee performance on an annual basis.",
+      "synonyms": ["evaluate", "assess", "judge"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "appreciate",
+      "thai": "ซาบซึ้ง, เห็นคุณค่า",
+      "meaning": "to be grateful or thankful for something",
+      "exampleSentence": "We greatly appreciate your prompt assistance with this urgent matter.",
+      "synonyms": ["value", "cherish", "be grateful for"],
+      "level": "B1",
+      "active": true
+    },
+    {
+      "word": "assemble",
+      "thai": "ประกอบ, รวมตัว",
+      "meaning": "to put parts together to form a whole, or gather in one place",
+      "exampleSentence": "Factory staff assemble the electronic devices on the production line.",
+      "synonyms": ["gather", "collect", "construct"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "assign",
+      "thai": "มอบหมาย",
+      "meaning": "to give someone a particular duty, responsibility, or task",
+      "exampleSentence": "The supervisor assigned new tasks to every team member.",
+      "synonyms": ["allocate", "delegate", "appoint"],
+      "level": "B1",
+      "active": true
+    },
+    {
+      "word": "assist",
+      "thai": "ช่วยเหลือ",
+      "meaning": "to help or support someone in completing a task",
+      "exampleSentence": "Our staff will assist you with the check-in process.",
+      "synonyms": ["help", "aid", "support"],
+      "level": "B1",
+      "active": true
+    },
+    {
+      "word": "assure",
+      "thai": "รับรอง, ให้ความมั่นใจ",
+      "meaning": "to tell someone positively to remove any doubt",
+      "exampleSentence": "The technician assured us that the server issue would be resolved soon.",
+      "synonyms": ["guarantee", "reassure", "ensure"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "attach",
+      "thai": "แนบ (ไฟล์/เอกสาร)",
+      "meaning": "to join, fasten, or connect one thing to another",
+      "exampleSentence": "Please attach your updated resume when sending the email application.",
+      "synonyms": ["enclose", "append", "affix"],
+      "level": "B1",
+      "active": true
+    },
+    {
+      "word": "audit",
+      "thai": "ตรวจสอบบัญชี/ระบบ",
+      "meaning": "an official examination of financial records or business accounts",
+      "exampleSentence": "An independent firm was hired to audit the company's financial records.",
+      "synonyms": ["inspection", "examination", "review"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "authorize",
+      "thai": "อนุมัติ, มอบอำนาจ",
+      "meaning": "to give official permission or power to do something",
+      "exampleSentence": "Only senior management can authorize expenditures over ten thousand dollars.",
+      "synonyms": ["approve", "sanction", "permit"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "bargain",
+      "thai": "ต่อรองราคา, ของราคาย่อมเยา",
+      "meaning": "something bought at a lower price than usual, or to negotiate prices",
+      "exampleSentence": "The purchasing department managed to bargain for a lower rate.",
+      "synonyms": ["negotiate", "deal", "discount"],
+      "level": "B1",
+      "active": true
+    },
+    {
+      "word": "calculate",
+      "thai": "คำนวณ",
+      "meaning": "to determine an amount or number mathematically",
+      "exampleSentence": "The accountant will calculate the total cost including taxes.",
+      "synonyms": ["compute", "estimate", "figure"],
+      "level": "B1",
+      "active": true
+    },
+    {
+      "word": "campaign",
+      "thai": "การรณรงค์, แคมเปญโฆษณา",
+      "meaning": "a planned series of actions intended to achieve a specific goal",
+      "exampleSentence": "The marketing campaign generated thousands of new customer inquiries.",
+      "synonyms": ["drive", "initiative", "operation"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "candidate",
+      "thai": "ผู้ลงสมัคร, ผู้เข้าแข่งขัน",
+      "meaning": "a person who is considered for a position, job, or award",
+      "exampleSentence": "She is the most qualified candidate for the director position.",
+      "synonyms": ["applicant", "contender", "nominee"],
+      "level": "B1",
+      "active": true
+    },
+    {
+      "word": "cater",
+      "thai": "จัดเลี้ยง, ให้บริการตามความต้องการ",
+      "meaning": "to provide food, drink, or services for an event or group",
+      "exampleSentence": "The hotel can cater to large corporate events and workshops.",
+      "synonyms": ["provide", "serve", "accommodate"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "caution",
+      "thai": "ความระมัดระวัง, เตือนภัย",
+      "meaning": "care taken to avoid danger or mistakes",
+      "exampleSentence": "Workers should exercise caution when operating heavy machinery.",
+      "synonyms": ["care", "warning", "prudence"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "certificate",
+      "thai": "ใบรับรอง, ประกาศนียบัตร",
+      "meaning": "an official document stating that a fact or accomplishment is true",
+      "exampleSentence": "Participants will receive a certificate upon completing the training program.",
+      "synonyms": ["document", "credentials", "diploma"],
+      "level": "B1",
+      "active": true
+    },
+    {
+      "word": "clarify",
+      "thai": "อธิบายให้ชัดเจน",
+      "meaning": "to make something clear or easier to understand",
+      "exampleSentence": "Could you please clarify the details regarding the payment terms?",
+      "synonyms": ["explain", "elucidate", "simplify"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "collaborate",
+      "thai": "ร่วมมือทำงาน",
+      "meaning": "to work jointly with others on a project or activity",
+      "exampleSentence": "Two teams will collaborate to develop the new software product.",
+      "synonyms": ["cooperate", "partner", "team up"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "compensate",
+      "thai": "ชดเชย, จ้างตอบแทน",
+      "meaning": "to pay someone for work done, or to make up for damage or loss",
+      "exampleSentence": "The company will compensate employees for overtime hours worked.",
+      "synonyms": ["reimburse", "remunerate", "repay"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "compete",
+      "thai": "แข่งขัน",
+      "meaning": "to try to win or achieve something against rivals",
+      "exampleSentence": "Local businesses must innovate to compete with global corporations.",
+      "synonyms": ["rival", "contend", "vying"],
+      "level": "B1",
+      "active": true
+    },
+    {
+      "word": "comply",
+      "thai": "ปฏิบัติตาม (กฎระเบียบ)",
+      "meaning": "to act according to an order, set of rules, or request",
+      "exampleSentence": "All factories must comply with international safety regulations.",
+      "synonyms": ["adhere", "conform", "obey"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "comprehensive",
+      "thai": "ครอบคลุม, ครบถ้วน",
+      "meaning": "including all or nearly all elements or aspects of something",
+      "exampleSentence": "The manual provides a comprehensive guide to equipment maintenance.",
+      "synonyms": ["thorough", "complete", "extensive"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "conduct",
+      "thai": "จัดการ, นำเสนอ, ปฏิบัติ",
+      "meaning": "to organize and carry out a particular activity or research",
+      "exampleSentence": "The market research firm will conduct a survey next week.",
+      "synonyms": ["perform", "execute", "carry out"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "confidential",
+      "thai": "เป็นความลับ",
+      "meaning": "intended to be kept secret and shared only with authorized people",
+      "exampleSentence": "All client records are kept strictly confidential.",
+      "synonyms": ["secret", "private", "classified"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "consecutive",
+      "thai": "ต่อเนื่องกัน, ตามลำดับ",
+      "meaning": "following continuously without interruption",
+      "exampleSentence": "The company recorded strong profit growth for three consecutive years.",
+      "synonyms": ["successive", "continuous", "unbroken"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "construct",
+      "thai": "ก่อสร้าง, สร้างขึ้น",
+      "meaning": "to build or make something large, such as a building or road",
+      "exampleSentence": "Engineers plan to construct a new bridge across the river.",
+      "synonyms": ["build", "erect", "assemble"],
+      "level": "B1",
+      "active": true
+    },
+    {
+      "word": "consume",
+      "thai": "บริโภค, ใช้หมดไป",
+      "meaning": "to use up resources such as fuel, energy, or time",
+      "exampleSentence": "Older manufacturing equipment tends to consume more energy.",
+      "synonyms": ["use up", "deplete", "exhaust"],
+      "level": "B1",
+      "active": true
+    },
+    {
+      "word": "contractor",
+      "thai": "ผู้รับเหมา",
+      "meaning": "a person or firm that agrees to provide materials or services for a specific job",
+      "exampleSentence": "The company hired an independent contractor to renovate the lobby.",
+      "synonyms": ["supplier", "builder", "vendor"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "contribute",
+      "thai": "มีส่วนช่วย, บริจาค",
+      "meaning": "to give something in order to help achieve or provide something",
+      "exampleSentence": "Every employee is encouraged to contribute ideas during brainstorming sessions.",
+      "synonyms": ["donate", "provide", "add"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "convenient",
+      "thai": "สะดวกสบาย",
+      "meaning": "fitting in well with a person's needs, activities, or plans",
+      "exampleSentence": "The new office location is very convenient for public transit commuters.",
+      "synonyms": ["handy", "accessible", "suitable"],
+      "level": "B1",
+      "active": true
+    },
+    {
+      "word": "convince",
+      "thai": "โน้มน้าว, ทำให้อย่างเชื่อถือ",
+      "meaning": "to cause someone to believe firm truth or act accordingly",
+      "exampleSentence": "The sales representative managed to convince the client to sign.",
+      "synonyms": ["persuade", "assure", "sway"],
+      "level": "B1",
+      "active": true
+    },
+    {
+      "word": "cooperate",
+      "thai": "ให้ความร่วมมือ",
+      "meaning": "to work together willingly to accomplish a shared goal",
+      "exampleSentence": "Both departments agreed to cooperate on the upcoming product release.",
+      "synonyms": ["collaborate", "assist", "partner"],
+      "level": "B1",
+      "active": true
+    },
+    {
+      "word": "corporate",
+      "thai": "เกี่ยวกับองค์กร/บริษัท",
+      "meaning": "relating to a large company or group",
+      "exampleSentence": "The corporate head office is located in downtown New York.",
+      "synonyms": ["company", "business", "commercial"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "critical",
+      "thai": "สำคัญยิ่ง, วิกฤต, เชิงวิพากษ์",
+      "meaning": "extremely important or decisive to the outcome of something",
+      "exampleSentence": "Effective communication is critical to project success.",
+      "synonyms": ["crucial", "vital", "essential"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "crucial",
+      "thai": "สำคัญเป็นอย่างยิ่ง",
+      "meaning": "decisive or critical, especially in the success or failure of something",
+      "exampleSentence": "Securing adequate funding is crucial for launch preparations.",
+      "synonyms": ["critical", "vital", "pivotal"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "deadline",
+      "thai": "เส้นตาย, กำหนดส่งงาน",
+      "meaning": "a date or time by which something must be completed",
+      "exampleSentence": "The team worked late into the night to meet the project deadline.",
+      "synonyms": ["due date", "target time", "cutoff"],
+      "level": "B1",
+      "active": true
+    },
+    {
+      "word": "decline",
+      "thai": "ลดลง, ปฏิเสธ",
+      "meaning": "to become smaller, fewer, or weaker, or to politely refuse",
+      "exampleSentence": "Sales figures began to decline during the fourth quarter.",
+      "synonyms": ["decrease", "drop", "refuse"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "decrease",
+      "thai": "ลดลง",
+      "meaning": "to make or become smaller or fewer in amount or degree",
+      "exampleSentence": "The new system helped decrease operational costs significantly.",
+      "synonyms": ["reduce", "lessen", "diminish"],
+      "level": "B1",
+      "active": true
+    },
+    {
+      "word": "defect",
+      "thai": "ข้อบกพร่อง, จุดตำหนิ",
+      "meaning": "a fault or imperfection in something that reduces its quality",
+      "exampleSentence": "The quality inspector identified a minor defect in the product.",
+      "synonyms": ["flaw", "fault", "imperfection"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "delegate",
+      "thai": "มอบหมายงาน, ตัวแทน",
+      "meaning": "to entrust a task or responsibility to another person",
+      "exampleSentence": "Effective managers know how to delegate tasks appropriately.",
+      "synonyms": ["assign", "entrust", "deputize"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "demonstrate",
+      "thai": "สาธิต, แสดงให้เห็น",
+      "meaning": "to clearly show or explain how something works",
+      "exampleSentence": "The instructor will demonstrate how to use the software properly.",
+      "synonyms": ["show", "display", "illustrate"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "deposit",
+      "thai": "เงินฝาก, เงินมัดจำ",
+      "meaning": "a sum of money paid into a bank account or as a pledge",
+      "exampleSentence": "A ten percent deposit is required to confirm the reservation.",
+      "synonyms": ["down payment", "advance", "downpayment"],
+      "level": "B1",
+      "active": true
+    },
+    {
+      "word": "designated",
+      "thai": "ที่ได้รับกำหนดไว้เฉพาะ",
+      "meaning": "officially assigned to a specific role, purpose, or location",
+      "exampleSentence": "Please park your vehicle in the designated visitor parking area.",
+      "synonyms": ["specified", "appointed", "assigned"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "discount",
+      "thai": "ส่วนลด",
+      "meaning": "a reduction in the usual price of something",
+      "exampleSentence": "Customers who purchase in bulk are eligible for a discount.",
+      "synonyms": ["reduction", "rebate", "deduction"],
+      "level": "B1",
+      "active": true
+    },
+    {
+      "word": "disrupt",
+      "thai": "รบกวน, ทำให้หยุดชะงัก",
+      "meaning": "to interrupt an event, activity, or process by causing disturbance",
+      "exampleSentence": "Severe weather conditions disrupted public transportation services.",
+      "synonyms": ["disturb", "interrupt", "interfere"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "distribute",
+      "thai": "แจกจ่าย, กระจายสินค้า",
+      "meaning": "to hand out or share something among a number of recipients",
+      "exampleSentence": "The company uses regional centers to distribute products nationwide.",
+      "synonyms": ["dispense", "hand out", "circulate"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "eligible",
+      "thai": "มีคุณสมบัติเหมาะสม",
+      "meaning": "having the right qualifications or satisfying conditions to do something",
+      "exampleSentence": "Full-time employees are eligible for health insurance benefits.",
+      "synonyms": ["qualified", "entitled", "suitable"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "emphasize",
+      "thai": "เน้นย้ำ",
+      "meaning": "to give special importance or prominence to something",
+      "exampleSentence": "The speaker emphasized the importance of teamwork in business success.",
+      "synonyms": ["stress", "highlight", "underline"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "enclose",
+      "thai": "แนบติดมาด้วย, ปิดล้อม",
+      "meaning": "to place something inside an envelope or container along with a letter",
+      "exampleSentence": "Please find enclosed a copy of the contract for your review.",
+      "synonyms": ["attach", "include", "insert"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "ensure",
+      "thai": "รับรอง, ทำให้มั่นใจ",
+      "meaning": "to make sure that something happens or is definite",
+      "exampleSentence": "Double-check the figures to ensure accuracy in the report.",
+      "synonyms": ["guarantee", "make sure", "secure"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "entitle",
+      "thai": "ให้สิทธิ์",
+      "meaning": "to give someone a official right to receive or do something",
+      "exampleSentence": "Purchasing a premium pass entitles you to VIP lounge access.",
+      "synonyms": ["authorize", "qualify", "allow"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "establish",
+      "thai": "จัดตั้ง, ก่อตั้ง",
+      "meaning": "to set up an organization, system, or set of rules on a firm basis",
+      "exampleSentence": "The firm was established in 1995 and has grown rapidly since.",
+      "synonyms": ["set up", "found", "instigate"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "evaluate",
+      "thai": "ประเมินผล",
+      "meaning": "to form an idea of the value, number, or quality of something",
+      "exampleSentence": "Management will evaluate the results of the pilot program.",
+      "synonyms": ["assess", "appraise", "judge"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "exceed",
+      "thai": "เกินกว่า, เกินกำหนด",
+      "meaning": "to be greater than a particular number, amount, or limit",
+      "exampleSentence": "Total revenue this quarter is expected to exceed target expectations.",
+      "synonyms": ["surpass", "outperform", "top"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "executive",
+      "thai": "ผู้บริหาร",
+      "meaning": "a person with senior managerial responsibility in a business",
+      "exampleSentence": "The chief executive held a meeting with division department heads.",
+      "synonyms": ["manager", "director", "officer"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "expansion",
+      "thai": "การขยายตัว, การขยายอาณาเขต",
+      "meaning": "the action of becoming larger or expanding",
+      "exampleSentence": "The rapid expansion of the business required hiring additional staff.",
+      "synonyms": ["growth", "extension", "enlargement"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "expense",
+      "thai": "ค่าใช้จ่าย",
+      "meaning": "the money spent on something during operation",
+      "exampleSentence": "Travel expenses will be reimbursed by the company accounting unit.",
+      "synonyms": ["cost", "expenditure", "outlay"],
+      "level": "B1",
+      "active": true
+    },
+    {
+      "word": "expire",
+      "thai": "หมดอายุ",
+      "meaning": "to come to an end or cease to be valid after a period of time",
+      "exampleSentence": "Your passport will expire in six months, so renew it promptly.",
+      "synonyms": ["lapse", "run out", "terminate"],
+      "level": "B1",
+      "active": true
+    },
+    {
+      "word": "facility",
+      "thai": "สิ่งอำนวยความสะดวก, สถานที่/อาคาร",
+      "meaning": "a place, amenity, or piece of equipment provided for a purpose",
+      "exampleSentence": "The company operates a state-of-the-art manufacturing facility.",
+      "synonyms": ["building", "establishment", "amenity"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "flexible",
+      "thai": "ยืดหยุ่นได้",
+      "meaning": "able to change or be changed easily according to circumstances",
+      "exampleSentence": "We offer flexible working hours to promote work-life balance.",
+      "synonyms": ["adaptable", "adjustable", "versatile"],
+      "level": "B1",
+      "active": true
+    },
+    {
+      "word": "fluctuate",
+      "thai": "ผันผวน, ไม่คงที่",
+      "meaning": "to rise and fall irregularly in number or amount",
+      "exampleSentence": "Fuel prices tend to fluctuate based on global market conditions.",
+      "synonyms": ["vary", "waver", "oscillate"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "forecast",
+      "thai": "การทำนาย, พยากรณ์",
+      "meaning": "a statement about what is likely to happen in the future",
+      "exampleSentence": "The financial forecast predicts steady economic growth for next quarter.",
+      "synonyms": ["prediction", "projection", "estimate"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "generate",
+      "thai": "สร้างขึ้น, ก่อให้เกิด",
+      "meaning": "to produce or create something, such as ideas, income, or energy",
+      "exampleSentence": "The new marketing initiative aims to generate more sales leads.",
+      "synonyms": ["produce", "create", "yield"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "guarantee",
+      "thai": "การรับประกัน, รับรอง",
+      "meaning": "a formal assurance that certain conditions will be fulfilled",
+      "exampleSentence": "All our products come with a full two-year money-back guarantee.",
+      "synonyms": ["assurance", "warranty", "promise"],
+      "level": "B1",
+      "active": true
+    },
+    {
+      "word": "identify",
+      "thai": "ระบุ, ชี้ตัว",
+      "meaning": "to recognize or establish who or what something is",
+      "exampleSentence": "The audit helped identify areas where the company could cut costs.",
+      "synonyms": ["recognize", "pinpoint", "determine"],
+      "level": "B1",
+      "active": true
+    },
+    {
+      "word": "indicate",
+      "thai": "แสดงให้เห็น, ชี้บอก",
+      "meaning": "to point out, show, or signify something clearly",
+      "exampleSentence": "Recent survey results indicate high levels of customer satisfaction.",
+      "synonyms": ["show", "point out", "signify"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "influence",
+      "thai": "มีอิทธิพลต่อ, ส่งผลกระทบ",
+      "meaning": "the capacity to have an effect on character, development, or behavior",
+      "exampleSentence": "Customer reviews can strongly influence buyer decisions.",
+      "synonyms": ["affect", "impact", "sway"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "inform",
+      "thai": "แจ้งให้ทราบ",
+      "meaning": "to give someone facts or information about something",
+      "exampleSentence": "We will inform you as soon as your shipment arrives at the store.",
+      "synonyms": ["notify", "advise", "apprise"],
+      "level": "B1",
+      "active": true
+    },
+    {
+      "word": "initiative",
+      "thai": "ความคิดริเริ่ม, แผนการใหม่",
+      "meaning": "an act or strategy intended to resolve a problem or improve a situation",
+      "exampleSentence": "The government launched a new green energy initiative.",
+      "synonyms": ["strategy", "scheme", "plan"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "inquire",
+      "thai": "สอบถาม",
+      "meaning": "to ask for information from someone",
+      "exampleSentence": "Several potential clients called to inquire about our pricing plans.",
+      "synonyms": ["ask", "query", "question"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "inspection",
+      "thai": "การตรวจสอบ, การตรวจค้น",
+      "meaning": "the act of looking at something closely to assess condition or quality",
+      "exampleSentence": "The building passed its annual safety inspection without any issues.",
+      "synonyms": ["examination", "check", "scrutiny"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "instruct",
+      "thai": "สั่งการ, สอน",
+      "meaning": "to give official order or directions to someone",
+      "exampleSentence": "Staff members were instructed to follow proper security procedures.",
+      "synonyms": ["direct", "order", "teach"],
+      "level": "B1",
+      "active": true
+    },
+    {
+      "word": "interim",
+      "thai": "ชั่วคราว, ระยะเวลาจัดตั้งชั่วคราว",
+      "meaning": "intended to last or serve for a temporary, short period",
+      "exampleSentence": "The board appointed an interim manager while searching for a permanent successor.",
+      "synonyms": ["temporary", "provisional", "acting"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "inventory",
+      "thai": "สินค้าคงคลัง, รายการสินค้า",
+      "meaning": "a complete list of items such as goods and materials in stock",
+      "exampleSentence": "The store conducts a complete inventory check at the end of every month.",
+      "synonyms": ["stock", "supplies", "merchandise"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "invoice",
+      "thai": "ใบแจ้งหนี้, ใบส่งของ",
+      "meaning": "an itemized bill sent to a buyer requesting payment for goods or services",
+      "exampleSentence": "Please process the invoice for payment within thirty days of receipt.",
+      "synonyms": ["bill", "statement", "receipt"],
+      "level": "B1",
+      "active": true
+    },
+    {
+      "word": "launch",
+      "thai": "เปิดตัว (สินค้า/โครงการ)",
+      "meaning": "to start or introduce a new product, service, or venture",
+      "exampleSentence": "The company plans to launch its new product line next month.",
+      "synonyms": ["introduce", "release", "initiate"],
+      "level": "B1",
+      "active": true
+    },
+    {
+      "word": "liability",
+      "thai": "หนี้สิน, ความรับผิดชอบตามกฎหมาย",
+      "meaning": "the state of being legally responsible for something, or financial debt",
+      "exampleSentence": "The business carries liability insurance to cover workplace accidents.",
+      "synonyms": ["responsibility", "obligation", "debt"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "limitation",
+      "thai": "ข้อจำกัด",
+      "meaning": "a rule, condition, or fact that limits someone or something",
+      "exampleSentence": "Despite budget limitations, the team produced an outstanding design.",
+      "synonyms": ["restriction", "constraint", "boundary"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "mandatory",
+      "thai": "บังคับ, จำเป็นต้องทำตามกฎ",
+      "meaning": "required by law or rules; compulsory",
+      "exampleSentence": "Attendance at the workplace safety workshop is mandatory for all workers.",
+      "synonyms": ["compulsory", "obligatory", "required"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "measure",
+      "thai": "มาตรการ, วัดขนาด",
+      "meaning": "a plan or action taken to achieve a particular purpose",
+      "exampleSentence": "The company introduced strict security measures to protect client data.",
+      "synonyms": ["action", "step", "means"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "merchandise",
+      "thai": "สินค้า, โภคภัณฑ์",
+      "meaning": "goods or products that are bought and sold in trade",
+      "exampleSentence": "Retailers display their best merchandise near the front entrance.",
+      "synonyms": ["goods", "products", "commodities"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "merge",
+      "thai": "ควบรวมกิจการ",
+      "meaning": "to combine or cause to combine into a single entity",
+      "exampleSentence": "The two small tech firms decided to merge to share operational resources.",
+      "synonyms": ["combine", "unite", "consolidate"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "modify",
+      "thai": "ปรับเปลี่ยน, แก้ไข",
+      "meaning": "to make partial or minor changes to something",
+      "exampleSentence": "We need to modify the original plan to stay within budget limits.",
+      "synonyms": ["alter", "adjust", "adapt"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "monitor",
+      "thai": "เฝ้าติดตาม, ตรวจสอบ",
+      "meaning": "to observe and check the progress or quality of something over time",
+      "exampleSentence": "Supervisors will monitor performance metrics on a regular basis.",
+      "synonyms": ["track", "observe", "check"],
+      "level": "B1",
+      "active": true
+    },
+    {
+      "word": "objective",
+      "thai": "วัตถุประสงค์, เป้าหมาย",
+      "meaning": "a goal or purpose that someone tries to achieve",
+      "exampleSentence": "Our primary objective is to increase total customer satisfaction.",
+      "synonyms": ["goal", "target", "aim"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "obligation",
+      "thai": "ข้อผูกมัด, ภาระหน้าที่",
+      "meaning": "an act or course of action to which a person is bound morally or legally",
+      "exampleSentence": "The contract outlines the financial obligations of both parties.",
+      "synonyms": ["duty", "responsibility", "commitment"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "occupy",
+      "thai": "ครอบครอง, พักอาศัย",
+      "meaning": "to reside or present oneself in a building, room, or space",
+      "exampleSentence": "The marketing agency will occupy the entire third floor.",
+      "synonyms": ["inhabit", "fill", "take up"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "operate",
+      "thai": "ดำเนินงาน, ควบคุมเครื่องจักร",
+      "meaning": "to control the functioning of a machine, system, or process",
+      "exampleSentence": "Only trained personnel are authorized to operate this machinery.",
+      "synonyms": ["run", "manage", "function"],
+      "level": "B1",
+      "active": true
+    },
+    {
+      "word": "opportunity",
+      "thai": "โอกาส",
+      "meaning": "a set of circumstances that makes it possible to do something",
+      "exampleSentence": "Working abroad provides a great opportunity to gain international experience.",
+      "synonyms": ["chance", "prospect", "opening"],
+      "level": "B1",
+      "active": true
+    },
+    {
+      "word": "participate",
+      "thai": "เข้าร่วม",
+      "meaning": "to take part in an activity or event",
+      "exampleSentence": "Staff members are encouraged to participate in community volunteer projects.",
+      "synonyms": ["join", "engage", "take part"],
+      "level": "B1",
+      "active": true
+    },
+    {
+      "word": "penalty",
+      "thai": "ค่าปรับ, โทษทัณฑ์",
+      "meaning": "a punishment imposed for breaking a law, rule, or contract terms",
+      "exampleSentence": "Late payment of invoices will result in a nominal penalty fee.",
+      "synonyms": ["fine", "punishment", "forfeit"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "perform",
+      "thai": "ปฏิบัติงาน, แสดง",
+      "meaning": "to carry out, accomplish, or fulfill an action, task, or function",
+      "exampleSentence": "Employees are expected to perform their duties to high standards.",
+      "synonyms": ["execute", "conduct", "fulfill"],
+      "level": "B1",
+      "active": true
+    },
+    {
+      "word": "permission",
+      "thai": "การอนุญาต",
+      "meaning": "official consent or authorization to do something",
+      "exampleSentence": "You must obtain permission from management before taking time off.",
+      "synonyms": ["authorization", "consent", "approval"],
+      "level": "B1",
+      "active": true
+    },
+    {
+      "word": "persuade",
+      "thai": "ชักจูง, โน้มน้าวใจ",
+      "meaning": "to cause someone to do or believe something through reasoning",
+      "exampleSentence": "The agent managed to persuade the client to accept the offer terms.",
+      "synonyms": ["convince", "influence", "coax"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "policy",
+      "thai": "นโยบาย",
+      "meaning": "a course or principle of action adopted or proposed by an organization",
+      "exampleSentence": "The company recently revised its travel reimbursement policy.",
+      "synonyms": ["rule", "strategy", "guideline"],
+      "level": "B1",
+      "active": true
+    },
+    {
+      "word": "precaution",
+      "thai": "การป้องกันไว้ก่อน",
+      "meaning": "a measure taken in advance to prevent something dangerous or unpleasant",
+      "exampleSentence": "As a safety precaution, protective gear must be worn inside factory facilities.",
+      "synonyms": ["safeguard", "preventative measure", "care"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "predict",
+      "thai": "ทำนาย, คาดการณ์",
+      "meaning": "to say or estimate that a specified thing will happen in the future",
+      "exampleSentence": "Analysts predict that consumer spending will increase next quarter.",
+      "synonyms": ["forecast", "foresee", "project"],
+      "level": "B1",
+      "active": true
+    },
+    {
+      "word": "preferable",
+      "thai": "เป็นที่ชื่นชอบมากกว่า, เหมาะสมกว่า",
+      "meaning": "more desirable or suitable than other alternatives",
+      "exampleSentence": "Direct flight arrangements are preferable for short business trips.",
+      "synonyms": ["desirable", "favored", "better"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "premises",
+      "thai": "สถานประกอบการ, บริเวณสถานที่",
+      "meaning": "a building and its surrounding land occupied by a business",
+      "exampleSentence": "Smoking is strictly prohibited inside or around company premises.",
+      "synonyms": ["property", "grounds", "facility"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "premium",
+      "thai": "เบี้ยประกัน, คุณภาพสูง/พิเศษ",
+      "meaning": "an amount to be paid for insurance, or of high quality",
+      "exampleSentence": "Members pay a monthly premium to access premium online features.",
+      "synonyms": ["fee", "payment", "high-grade"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "prescribe",
+      "thai": "สั่งจ่ายยา, กำหนดเกณฑ์",
+      "meaning": "to advise or authorize the use of something officially",
+      "exampleSentence": "The employee medical handbook prescribes clear guidelines for leave.",
+      "synonyms": ["order", "specify", "stipulate"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "preserve",
+      "thai": "อนุรักษ์, สงวนไว้",
+      "meaning": "to maintain something in its original or existing state",
+      "exampleSentence": "The company takes measures to preserve historic documents in archives.",
+      "synonyms": ["protect", "maintain", "conserve"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "procedure",
+      "thai": "ขั้นตอนปฏิบัติงาน",
+      "meaning": "an established or official way of doing something step by step",
+      "exampleSentence": "Follow standard operating procedures when handling client data.",
+      "synonyms": ["process", "method", "routine"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "proceed",
+      "thai": "ดำเนินการต่อ",
+      "meaning": "to begin or continue a course of action",
+      "exampleSentence": "We can proceed with the construction project now that approval is secured.",
+      "synonyms": ["continue", "progress", "go ahead"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "productive",
+      "thai": "ก่อเกิดผลผลิต, มีประสิทธิภาพ",
+      "meaning": "achieving or producing a significant amount or result",
+      "exampleSentence": "The morning strategy session turned out to be very productive.",
+      "synonyms": ["fruitful", "effective", "constructive"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "prohibit",
+      "thai": "ห้าม, ไม่อนุญาต",
+      "meaning": "to formally forbid something by law, rule, or authority",
+      "exampleSentence": "Company regulations prohibit the unauthorized disclosure of private records.",
+      "synonyms": ["forbid", "ban", "disallow"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "promotional",
+      "thai": "เกี่ยวกับการส่งเสริมการขาย",
+      "meaning": "relating to the publication or advertising of a product/service",
+      "exampleSentence": "The team distributed promotional brochures during the industry trade show.",
+      "synonyms": ["marketing", "advertising", "publicity"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "promptly",
+      "thai": "ทันทีทันใด, อย่างตรงเวลา",
+      "meaning": "with little or no delay; immediately or punctually",
+      "exampleSentence": "Please respond promptly to customer inquiries to ensure high satisfaction.",
+      "synonyms": ["immediately", "quickly", "punctually"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "proposal",
+      "thai": "ข้อเสนอ",
+      "meaning": "a formal plan or suggestion put forward for consideration",
+      "exampleSentence": "The committee reviewed the project proposal before granting approval.",
+      "synonyms": ["suggestion", "offer", "scheme"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "prospect",
+      "thai": "โอกาสที่จะเกิดขึ้น, ลูกค้าที่มุ่งหวัง",
+      "meaning": "the possibility or likelihood of some future event occurring",
+      "exampleSentence": "The company has strong prospects for growth in expanding overseas markets.",
+      "synonyms": ["possibility", "potential", "outlook"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "prosperous",
+      "thai": "มั่งคั่ง, เจริญก้าวหน้า",
+      "meaning": "successful in material terms; flourishing financially",
+      "exampleSentence": "The city has enjoyed a prosperous economic climate over the past decade.",
+      "synonyms": ["thriving", "flourishing", "successful"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "qualify",
+      "thai": "ผ่านเกณฑ์คุณสมบัติ",
+      "meaning": "to meet necessary conditions, requirements, or standards",
+      "exampleSentence": "Applicants must meet specific criteria to qualify for financial grants.",
+      "synonyms": ["eligible", "fit", "entitle"],
+      "level": "B1",
+      "active": true
+    },
+    {
+      "word": "quotation",
+      "thai": "ใบเสนอราคา",
+      "meaning": "a formal statement setting out the estimated cost for a job or service",
+      "exampleSentence": "We requested a detailed price quotation from three separate vendors.",
+      "synonyms": ["estimate", "quote", "bid"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "reconcile",
+      "thai": "เปรียบเทียบปรับปรุงให้สอดคล้องกัน",
+      "meaning": "to make two different ideas or numbers consistent with one another",
+      "exampleSentence": "The accountant worked late to reconcile the balance sheet discrepancies.",
+      "synonyms": ["harmonize", "resolve", "adjust"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "recruit",
+      "thai": "สรรหาพนักงานใหม่",
+      "meaning": "to enroll or hire new people to join an organization",
+      "exampleSentence": "The HR department plans to recruit entry-level software developers.",
+      "synonyms": ["hire", "employ", "enlist"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "refund",
+      "thai": "การคืนเงิน",
+      "meaning": "a repayment of a sum of money to a customer",
+      "exampleSentence": "Customers can request a full refund within thirty days of purchase.",
+      "synonyms": ["reimbursement", "repayment", "rebate"],
+      "level": "B1",
+      "active": true
+    },
+    {
+      "word": "reimburse",
+      "thai": "จ่ายเงินชดเชย/คืนให้",
+      "meaning": "to pay back money spent by someone for work-related expenses",
+      "exampleSentence": "The company will reimburse travel costs incurred during business trips.",
+      "synonyms": ["repay", "compensate", "refund"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "relocate",
+      "thai": "ย้ายตำแหน่ง/ย้ายสถานที่",
+      "meaning": "to move to a new place to live or operate a business",
+      "exampleSentence": "The corporate branch decided to relocate its office closer to downtown.",
+      "synonyms": ["move", "transfer", "resettle"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "remind",
+      "thai": "เตือนความจำ",
+      "meaning": "to cause someone to remember something important",
+      "exampleSentence": "Please remind all employees to submit timesheets before Friday.",
+      "synonyms": ["notify", "prompt", "alert"],
+      "level": "B1",
+      "active": true
+    },
+    {
+      "word": "remuneration",
+      "thai": "ค่าตอบแทน",
+      "meaning": "money paid for work or a service provided",
+      "exampleSentence": "The job offer includes competitive salary remuneration and performance bonuses.",
+      "synonyms": ["payment", "compensation", "salary"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "renovate",
+      "thai": "ปรับปรุงซ่อมแซมอาคาร",
+      "meaning": "to restore something old (especially a building) to a good state",
+      "exampleSentence": "The management plans to renovate the main conference center.",
+      "synonyms": ["refurbish", "remodel", "restore"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "reputation",
+      "thai": "ชื่อเสียง",
+      "meaning": "the beliefs or opinions that are generally held about someone or something",
+      "exampleSentence": "The brand established a solid reputation for providing durable products.",
+      "synonyms": ["prestige", "stature", "standing"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "reschedule",
+      "thai": "เปลี่ยนเวลา/เลื่อนตารางงาน",
+      "meaning": "to change the time or date of a planned event",
+      "exampleSentence": "Due to a travel conflict, we need to reschedule our afternoon meeting.",
+      "synonyms": ["postpone", "adjust", "defer"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "resign",
+      "thai": "ลาออก",
+      "meaning": "to voluntarily leave a job or position",
+      "exampleSentence": "The sales director decided to resign from his position last week.",
+      "synonyms": ["step down", "quit", "leave"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "resolution",
+      "thai": "มติที่ประชุม, การแก้ปัญหา",
+      "meaning": "a firm decision made at a meeting, or a solution to a problem",
+      "exampleSentence": "The board passed a resolution approving the merger plan.",
+      "synonyms": ["decision", "solution", "verdict"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "resource",
+      "thai": "ทรัพยากร",
+      "meaning": "a stock or supply of money, materials, or staff used effectively",
+      "exampleSentence": "We need to allocate project resources more effectively going forward.",
+      "synonyms": ["assets", "supplies", "materials"],
+      "level": "B1",
+      "active": true
+    },
+    {
+      "word": "respond",
+      "thai": "ตอบกลับ, ตอบสนอง",
+      "meaning": "to say or write something as an answer to someone or something",
+      "exampleSentence": "Please respond to client requests within twenty-four hours.",
+      "synonyms": ["reply", "answer", "react"],
+      "level": "B1",
+      "active": true
+    },
+    {
+      "word": "restructure",
+      "thai": "ปรับโครงสร้างองค์กร",
+      "meaning": "to organize a system or business in a new and different way",
+      "exampleSentence": "The firm was forced to restructure its operations to cut costs.",
+      "synonyms": ["reorganize", "remodel", "realign"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "retain",
+      "thai": "รักษาไว้, เก็บไว้",
+      "meaning": "to continue to have, keep, or hold something",
+      "exampleSentence": "The company strives to retain valuable employees through competitive benefits.",
+      "synonyms": ["keep", "maintain", "preserve"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "revenue",
+      "thai": "รายได้ของบริษัท",
+      "meaning": "income that a business or government receives on a regular basis",
+      "exampleSentence": "Annual revenue increased by fifteen percent compared to last year.",
+      "synonyms": ["income", "earnings", "proceeds"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "revise",
+      "thai": "แก้ไขปรับปรุง",
+      "meaning": "to alter or re-examine a document or plan to improve it",
+      "exampleSentence": "The author was asked to revise the project proposal draft.",
+      "synonyms": ["amend", "modify", "edit"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "satisfy",
+      "thai": "ทำให้พึงพอใจ, บรรลุตามเงื่อนไข",
+      "meaning": "to meet expectations, needs, or conditions adequately",
+      "exampleSentence": "Our primary objective is to satisfy all safety criteria.",
+      "synonyms": ["fulfill", "meet", "gratify"],
+      "level": "B1",
+      "active": true
+    },
+    {
+      "word": "scrutinize",
+      "thai": "พิจารณาอย่างถี่ถ้วน",
+      "meaning": "to examine or inspect closely and thoroughly",
+      "exampleSentence": "Auditors will scrutinize all financial statements for inconsistencies.",
+      "synonyms": ["examine", "inspect", "analyze"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "specify",
+      "thai": "ระบุอย่างชัดเจน",
+      "meaning": "to state or identify a requirement clearly and explicitly",
+      "exampleSentence": "The purchase order must specify the exact quantity needed.",
+      "synonyms": ["state", "detail", "indicate"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "strategy",
+      "thai": "กลยุทธ์, แผนการ",
+      "meaning": "a long-term plan designed to achieve a major or overall aim",
+      "exampleSentence": "The executive team developed a marketing strategy for expansion.",
+      "synonyms": ["plan", "tactic", "scheme"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "subsequent",
+      "thai": "ซึ่งเกิดขึ้นภายหลัง",
+      "meaning": "coming or happening after something else in time or order",
+      "exampleSentence": "Initial trials failed, but subsequent tests proved successful.",
+      "synonyms": ["following", "succeeding", "subsequent"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "subsidiary",
+      "thai": "บริษัทในเครือ",
+      "meaning": "a company controlled by a holding or parent company",
+      "exampleSentence": "The overseas branch operates as a subsidiary of the main corporation.",
+      "synonyms": ["branch", "affiliate", "division"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "substantial",
+      "thai": "มากมาย, เป็นชิ้นเป็นอัน",
+      "meaning": "of considerable importance, size, value, or amount",
+      "exampleSentence": "The new policy resulted in substantial savings for the department.",
+      "synonyms": ["significant", "considerable", "sizeable"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "substitute",
+      "thai": "ทดแทน, สิ่งทดแทน",
+      "meaning": "a person or thing acting or serving in place of another",
+      "exampleSentence": "Margarine can be used as a substitute for butter in baking recipes.",
+      "synonyms": ["replacement", "alternative", "proxy"],
+      "level": "B1",
+      "active": true
+    },
+    {
+      "word": "supervise",
+      "thai": "กำกับดูแล, ควบคุมงาน",
+      "meaning": "to observe and direct the execution of a task or worker",
+      "exampleSentence": "A senior engineer was assigned to supervise construction work on site.",
+      "synonyms": ["oversee", "manage", "direct"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "supplement",
+      "thai": "เพิ่มเติม, ส่วนเสริม",
+      "meaning": "something added to complete or enhance something else",
+      "exampleSentence": "The trainer provided additional material to supplement the manual.",
+      "synonyms": ["addition", "extra", "add-on"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "surpass",
+      "thai": "แซงหน้า, เหนือกว่า",
+      "meaning": "to exceed or be greater than expected or targeted",
+      "exampleSentence": "Company profits this quarter surpass all analyst predictions.",
+      "synonyms": ["exceed", "outdo", "top"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "survey",
+      "thai": "การสำรวจความเห็น",
+      "meaning": "a set of questions asked to gather statistical information",
+      "exampleSentence": "We conduct a survey annually to measure employee engagement.",
+      "synonyms": ["poll", "study", "questionnaire"],
+      "level": "B1",
+      "active": true
+    },
+    {
+      "word": "suspend",
+      "thai": "ระงับชั่วคราว, พักงาน",
+      "meaning": "to temporarily prevent from continuing or being in force",
+      "exampleSentence": "Management decided to suspend operations until safety checks finish.",
+      "synonyms": ["halt", "pause", "discontinue"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "sustain",
+      "thai": "รักษาไว้, ค้ำจุน",
+      "meaning": "to strengthen or support continuously over time",
+      "exampleSentence": "The organization needs steady funding to sustain its operations.",
+      "synonyms": ["maintain", "support", "uphold"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "tentative",
+      "thai": "ยังไม่แน่นอน, เป็นการหยั่งเชิง",
+      "meaning": "not certain or fixed; subject to change",
+      "exampleSentence": "We set a tentative date for the conference next month.",
+      "synonyms": ["provisional", "uncertain", "unconfirmed"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "terminate",
+      "thai": "ยุติ, สิ้นสุดสัญญา",
+      "meaning": "to bring to an end or cause to end formally",
+      "exampleSentence": "Either party may terminate the contract with a thirty-day written notice.",
+      "synonyms": ["end", "cancel", "discontinue"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "thorough",
+      "thai": "ละเอียดยอดเยี่ยม, ครบถ้วน",
+      "meaning": "complete with regard to every detail; methodical and careful",
+      "exampleSentence": "The auditor conducted a thorough review of accounting procedures.",
+      "synonyms": ["comprehensive", "meticulous", "complete"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "transfer",
+      "thai": "โอนเงิน, โยกย้ายตำแหน่ง",
+      "meaning": "to move from one place, position, or account to another",
+      "exampleSentence": "The accountant will transfer the remaining funds to the main account.",
+      "synonyms": ["move", "relocate", "shift"],
+      "level": "B1",
+      "active": true
+    },
+    {
+      "word": "unanimous",
+      "thai": "เป็นเอกฉันท์",
+      "meaning": "fully agreed by everyone in a group or committee",
+      "exampleSentence": "The board reached a unanimous decision to expand international operations.",
+      "synonyms": ["united", "agreed", "undivided"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "undergo",
+      "thai": "เผชิญกับ, เข้ารับการ (ทดสอบ/รักษา)",
+      "meaning": "to experience or be subjected to something (a process or change)",
+      "exampleSentence": "New staff members must undergo specialized orientation training.",
+      "synonyms": ["experience", "endure", "go through"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "undertake",
+      "thai": "รับภาระทำ, ดำเนินการ",
+      "meaning": "to commit oneself to and begin a task or project",
+      "exampleSentence": "The consulting firm will undertake a complete review of our systems.",
+      "synonyms": ["embark on", "tackle", "assume"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "urgent",
+      "thai": "เร่งด่วน",
+      "meaning": "requiring immediate action or attention",
+      "exampleSentence": "The manager sent an urgent email regarding the server outage.",
+      "synonyms": ["pressing", "critical", "imperative"],
+      "level": "B1",
+      "active": true
+    },
+    {
+      "word": "utilize",
+      "thai": "นำไปใช้ประโยชน์",
+      "meaning": "to make practical and effective use of a resource",
+      "exampleSentence": "The department plans to utilize new tools to increase efficiency.",
+      "synonyms": ["use", "employ", "apply"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "validate",
+      "thai": "ยืนยันความถูกต้อง, ทำให้มีผลตามกฎหมาย",
+      "meaning": "to check or prove the validity or accuracy of something",
+      "exampleSentence": "Please validate parking tickets at the front reception counter.",
+      "synonyms": ["confirm", "verify", "authenticate"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "variable",
+      "thai": "ซึ่งเปลี่ยนแปลงได้, ตัวแปร",
+      "meaning": "not consistent or having a fixed pattern; liable to change",
+      "exampleSentence": "Operational costs can be highly variable depending on material prices.",
+      "synonyms": ["changeable", "fluctuating", "inconstant"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "vendor",
+      "thai": "ผู้ขาย, ผู้จำหน่าย",
+      "meaning": "a person or company offering items or services for sale",
+      "exampleSentence": "The company hired an external vendor to supply office equipment.",
+      "synonyms": ["supplier", "seller", "provider"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "venture",
+      "thai": "การเสี่ยงโชค, ธุรกิจร่วมทุน",
+      "meaning": "a risky or daring journey or business undertaking",
+      "exampleSentence": "The two corporations launched a joint venture in Asia.",
+      "synonyms": ["enterprise", "undertaking", "project"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "versatile",
+      "thai": "เอนกประสงค์, มีความสามารถรอบตัว",
+      "meaning": "able to adapt or be adapted to many different functions or activities",
+      "exampleSentence": "We are looking for a versatile candidate who can handle multiple roles.",
+      "synonyms": ["adaptable", "flexible", "all-around"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "waive",
+      "thai": "สละสิทธิ์, ยกเว้น (ค่าธรรมเนียม)",
+      "meaning": "to refrain from insisting on or applying a rule, penalty, or fee",
+      "exampleSentence": "The bank agreed to waive the processing fee for new account holders.",
+      "synonyms": ["relinquish", "forgo", "cancel"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "warrant",
+      "thai": "การรับประกัน, ความชอบธรรม",
+      "meaning": "to justify or necessitate a course of action",
+      "exampleSentence": "The severity of the issue does not warrant cancelling the contract.",
+      "synonyms": ["justify", "guarantee", "sanction"],
+      "level": "B2",
+      "active": true
+    },
+    {
+      "word": "yield",
+      "thai": "ให้ผลผลิต, ยินยอม",
+      "meaning": "to produce or provide a result, gain, or financial return",
+      "exampleSentence": "The new investment strategy is expected to yield higher annual returns.",
+      "synonyms": ["produce", "generate", "return"],
+      "level": "B2",
+      "active": true
+    }
 ]
